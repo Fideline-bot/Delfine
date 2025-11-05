@@ -1,6 +1,4 @@
-
 const { getTime } = global.utils;
-const fonts = require('../../func/fonts.js');
 
 module.exports = {
 	config: {
