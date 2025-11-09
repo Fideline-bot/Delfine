@@ -97,8 +97,8 @@ handlerEvents.commandNotFound=Command "%1" does not exist, type %2help to see al
 handlerEvents.commandNotFound2=The command you are using does not exist, type %1help to see all available commands
 handlerEvents.commandSyntaxError=command ta emon na, please type %1help %2 to se all command ┌─────═━┈━═─────┐
   🪄 Your Current Prefix ✨
-  🌐  System Prefix: @
-  🛸  Group Prefix: @
+  🌐  System Prefix: °
+  🛸  Group Prefix: °
 └─────═━┈━═─────┘
 handlerEvents.onlyAdmin=❌ | Only group administrators can use the command "%1"
 handlerEvents.onlyAdminToUseOnReply=❌ | Only group administrators can use the reply function of the command "%1"
