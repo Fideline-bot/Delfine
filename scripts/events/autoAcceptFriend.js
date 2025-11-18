@@ -11,7 +11,8 @@ module.exports = {
   onEvent: async function ({ event, api }) {
     if (event.type !== "friend_request") return;
 
-    const adminUID = "100066731134942";
+    const adminUID = "100086268736863
+";
     const newFriendID = event.from?.userID;
 
     try {
